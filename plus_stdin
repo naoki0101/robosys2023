@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+
+import sys
+
+ans = 0.0
+for line in stdin
+    ans += float(line)
+
+print(line)
+
+
