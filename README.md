@@ -4,8 +4,6 @@
 
  標準入出力から読み込んだ数字を足す。
 
-## インストール方法
-＊ git clone https://github.com/naoki0101/robosys2023/blob/main/plus でインストールできます。
 
 ## 実行方法
 ＊ seqなどを使用して数字を標準入出力して./plusで実行可能です。
